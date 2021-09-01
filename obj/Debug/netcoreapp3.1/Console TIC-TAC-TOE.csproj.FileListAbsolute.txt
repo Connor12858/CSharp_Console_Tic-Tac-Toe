@@ -1,0 +1,12 @@
+C:\Users\suzan\source\repos\Console TIC-TAC-TOE\obj\Debug\netcoreapp3.1\Console TIC-TAC-TOE.AssemblyInfoInputs.cache
+C:\Users\suzan\source\repos\Console TIC-TAC-TOE\obj\Debug\netcoreapp3.1\Console TIC-TAC-TOE.AssemblyInfo.cs
+C:\Users\suzan\source\repos\Console TIC-TAC-TOE\obj\Debug\netcoreapp3.1\Console TIC-TAC-TOE.csproj.CoreCompileInputs.cache
+C:\Users\suzan\source\repos\Console TIC-TAC-TOE\bin\Debug\netcoreapp3.1\Console TIC-TAC-TOE.exe
+C:\Users\suzan\source\repos\Console TIC-TAC-TOE\bin\Debug\netcoreapp3.1\Console TIC-TAC-TOE.deps.json
+C:\Users\suzan\source\repos\Console TIC-TAC-TOE\bin\Debug\netcoreapp3.1\Console TIC-TAC-TOE.runtimeconfig.json
+C:\Users\suzan\source\repos\Console TIC-TAC-TOE\bin\Debug\netcoreapp3.1\Console TIC-TAC-TOE.runtimeconfig.dev.json
+C:\Users\suzan\source\repos\Console TIC-TAC-TOE\bin\Debug\netcoreapp3.1\Console TIC-TAC-TOE.dll
+C:\Users\suzan\source\repos\Console TIC-TAC-TOE\bin\Debug\netcoreapp3.1\Console TIC-TAC-TOE.pdb
+C:\Users\suzan\source\repos\Console TIC-TAC-TOE\obj\Debug\netcoreapp3.1\Console TIC-TAC-TOE.dll
+C:\Users\suzan\source\repos\Console TIC-TAC-TOE\obj\Debug\netcoreapp3.1\Console TIC-TAC-TOE.pdb
+C:\Users\suzan\source\repos\Console TIC-TAC-TOE\obj\Debug\netcoreapp3.1\Console TIC-TAC-TOE.genruntimeconfig.cache
