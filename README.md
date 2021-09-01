@@ -1,6 +1,6 @@
 # CSharp_Console_Tic-Tac-Toe
 
-## To download
+## To download ans use
 
 
 1. Download project as a `.zip`
